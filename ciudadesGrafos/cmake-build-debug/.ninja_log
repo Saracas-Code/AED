@@ -1,0 +1,11 @@
+# ninja log v5
+186	421	1698884525075123000	ciudadesGrafos.exe	fd31cb99a590fd97
+265	475	7214952950416290	ETSEMaps.exe	65a9a8fc9058c00a
+1	357	1700103353865840800	CMakeFiles/ETSEMaps.dir/home/Sarac/AED/ciudadesGrafos/grafo.c.o	eb74309cccf8d64b
+21	360	1700103353870931800	CMakeFiles/ETSEMaps.dir/home/Sarac/AED/ciudadesGrafos/main.c.o	473c97de81f90738
+41	446	1700103353968225200	CMakeFiles/ETSEMaps.dir/home/Sarac/AED/ciudadesGrafos/ETSEMaps.c.o	348b0db9cb36ab8b
+447	759	1700103354274709600	ETSEMaps.exe	b8dc00711ca8f44b
+6	4820	1727353217941180800	CMakeFiles/ETSEMaps.dir/home/Sarac/AED/ciudadesGrafos/grafo.c.o	eb74309cccf8d64b
+796	4822	1727353217940114500	CMakeFiles/ETSEMaps.dir/home/Sarac/AED/ciudadesGrafos/main.c.o	473c97de81f90738
+839	4826	1727353217954356700	CMakeFiles/ETSEMaps.dir/home/Sarac/AED/ciudadesGrafos/ETSEMaps.c.o	348b0db9cb36ab8b
+4827	5779	1727353218907772500	ETSEMaps.exe	b8dc00711ca8f44b
